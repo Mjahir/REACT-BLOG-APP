@@ -4,6 +4,11 @@ import Container from "./container/Container";
 import Logo from "./Logo";
 import Logoutbtn from "./Header/Logoutbtn";
 import RTE from "./RTE";
+import Signup from "./Signup";
+import Login from "./Login";
+import Post from "./Post";
+import PostForm from "./post-form/PostForm";
+import PostCard from "./PostCard"
 
 export {
     Header,
@@ -11,5 +16,10 @@ export {
     Container,
     Logo,
     Logoutbtn,
-    RTE
+    RTE,
+    Signup,
+    Login,
+    Post,
+    PostForm,
+    PostCard
 }
